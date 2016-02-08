@@ -1,6 +1,6 @@
 {
   "name": "a-bear",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "You wouldn't import a bear",
   "main": "index.js",
   "repository": "RichardLitt/a-bear",
@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "coordinates": [
-    42.3891041,
-    -71.11999449999999
+    42.3890631,
+    -71.12024749999999
   ]
 }
