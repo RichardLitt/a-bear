@@ -1,0 +1,20 @@
+{
+  "name": "a-bear",
+  "version": "1.0.0",
+  "description": "You wouldn't import a bear",
+  "main": "index.js",
+  "repository": "RichardLitt/a-bear",
+  "keywords": [
+    "bear"
+  ],
+  "author": {
+    "name": "Richard Littauer",
+    "email": "richard.littauer@gmail.com",
+    "url": "http://burntfen.com"
+  },
+  "license": "MIT",
+  "coordinates": [
+    42.3891041,
+    -71.11999449999999
+  ]
+}
