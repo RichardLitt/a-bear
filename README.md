@@ -3,14 +3,16 @@
 
 ![a bear](bear.jpg)
 
-### usage
-
-```
-import "a-bear"
-```
-
-or
-
+### How can I access the bears?
 ```
 var aBear = require('a-bear')
+
+var grizzlyBear = aBear("grizzly")
 ```
+
+### What bears can I access?
+
+- Grizzly
+- Polar
+- Panda
+- Koala
