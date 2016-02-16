@@ -4,15 +4,6 @@
 ![a bear](bear.jpg)
 
 ### How can I access the bears?
-
-```
-import bear from "a-bear"
-
-var grizzlyBear = bear("grizzly")
-```
-
-or
-
 ```
 var aBear = require('a-bear')
 
