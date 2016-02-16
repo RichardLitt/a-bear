@@ -7,6 +7,9 @@
   "keywords": [
     "bear"
   ],
+  "scripts": {
+    "test": "standard && node test.js"
+  },
   "author": {
     "name": "Richard Littauer",
     "email": "richard.littauer@gmail.com",
@@ -16,5 +19,9 @@
   "coordinates": [
     42.3890631,
     -71.12024749999999
-  ]
+  ],
+  "devDependencies": {
+    "tape": "^4.4.0",
+    "tape-drain": "^0.1.0"
+  }
 }
