@@ -1,5 +1,7 @@
 # a-bear
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/a-bear.svg)](https://greenkeeper.io/)
+
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > You wouldn't import a bear
