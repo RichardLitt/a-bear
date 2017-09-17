@@ -1,6 +1,6 @@
 {
   "name": "a-bear",
-  "version": "1.0.5",
+  "version": "0.0.0-development",
   "description": "You wouldn't import a bear",
   "main": "index.js",
   "repository": "RichardLitt/a-bear",
@@ -8,7 +8,8 @@
     "bear"
   ],
   "scripts": {
-    "test": "standard && node test.js"
+    "test": "standard && node test.js",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "author": {
     "name": "Richard Littauer",
@@ -22,6 +23,7 @@
   ],
   "devDependencies": {
     "tape": "^4.4.0",
-    "tape-drain": "^0.1.0"
+    "tape-drain": "^0.1.0",
+    "semantic-release": "^8.0.0"
   }
 }
