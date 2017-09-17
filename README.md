@@ -30,7 +30,6 @@ var grizzlyBear = bear("grizzly")
 - Panda
 - Koala
 
-
 ## Contribute
 
 If you are a BIPED. Very important. Not a bear.
